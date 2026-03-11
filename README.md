@@ -80,8 +80,6 @@ code is available upon request.
 | **serverless-aws-client** | AWS serverless frontend client using API Gateway and Lambda |
 | **serverless-aws-api** | Serverless backend API using AWS Lambda and DynamoDB |
 
-> Code for private projects is available upon request.
-
 ---
 
 ## 📜 Certifications
