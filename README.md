@@ -13,14 +13,14 @@ Actively building and experimenting with:
 - **Agentic AI systems** — multi-agent workflows that work autonomously
 - **Claude Code workspaces** — custom AI environments for productivity and automation
 - **AI-powered developer tools** — agents that write, review, and deploy code
-- **24/7 automated workflows** — GitHub issue triggers, background agents, mobile-first AI
+- **24/7 automated workflows** — GitHub issue triggers, background agents
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-Java · Python · JavaScript · JSX · SQL · HTML · CSS
+Java · Python · JSX · SQL · HTML · CSS
 
 **Frameworks & Libraries**
 Spring Boot · Spring MVC · Spring Security · ReactJS · Kafka · 
@@ -36,7 +36,7 @@ Claude AI · OpenAI API · Agentic AI · RAG · MCP ·
 Prompt Engineering · Gradio · Hugging Face · GitHub Copilot
 
 **Developer Tools**
-VS Code · Cursor · Claude Code · Git · GitHub · Jira · 
+VS Code · IntelliJ IDEA · Cursor · Claude Code · Git · GitHub · Jira · 
 SonarQube · Splunk · Postman · Maven · Gradle
 
 ---
@@ -71,6 +71,7 @@ code is available upon request.
 
 | Project | Description |
 |---|---|
+| **nevzat-chat-backend** | Serverless AI portfolio chatbot backend — AWS Lambda + API Gateway + S3 RAG pipeline + OpenAI GPT-4o-mini + SES notifications. Runs the AI assistant on nevzatpinar.com for $0.40/month with GitHub Actions auto-deploy. |
 | **linkedin-post-builder** | Agentic AI workspace for automated LinkedIn post generation with background agent, GitHub issue triggers, and mobile workflow |
 | **interview-ace** | AI-powered interview preparation workspace — behavioral, Java coding, system design, and full mock loops powered by Claude |
 | **my-personal-gradio-site** | Personal AI playground and portfolio site built with Gradio UI |
